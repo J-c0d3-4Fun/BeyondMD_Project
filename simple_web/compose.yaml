@@ -1,0 +1,8 @@
+services:
+#This type of servie is a web service
+  web:
+# Build the Docker image using the Dockerfile in the current directory
+    build: .
+# Map port 4000 on the host to port 80 on the container
+    ports:
+      - 4000:80
