@@ -1,0 +1,25 @@
+#heading{
+    text-align: center;
+    color: lightblue;
+    font-size: x-large;
+}
+
+#text{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#money{
+    background-color: bisque;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+
+#end{
+    text-align: center;
+    font-size: 15px;
+
+}
